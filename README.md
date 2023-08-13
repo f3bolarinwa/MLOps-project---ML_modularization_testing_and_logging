@@ -38,17 +38,24 @@ Overview of the files and data present in the root directory:
 2)Peruse churn_notebook.ipynb to understand machine learning concept involved.
 
 3)In terminal, execute: ipython churn_script_logging_and_tests.py
-    Expect logs/churn_library.log to be populated.
+
+Expect logs/churn_library.log to be populated.
     
 4)In terminal, execute: ipython churn_library.py
-    Expect the following folders to be populated: images, models
+
+Expect the following folders to be populated: images, models
 
 
 ## Dependencies
 
 joblib==1.1.0
+
 matplotlib==3.5.2
+
 numpy==1.21.5
+
 pandas==1.4.4
+
 scikit_learn==1.0.2
+
 seaborn==0.11.2
