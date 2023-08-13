@@ -1,6 +1,6 @@
 # Project: Predict Customer Churn
 
-**Predict Customer Churn** for ML DevOps Engineer Nanodegree @ Udacity
+A program requirement for Machine Learning DevOps Engineer Nanodegree @ Udacity School of Artificial Intelligence
 
 ## Project Description
 This project involves building and implementing machine learning classification models to predict credit card customers that are most likely to churn. 
